@@ -1,0 +1,27 @@
+AT keyboard
+Buckling
+Coil spring
+Collapse action
+Computer hardware
+Euler's critical load
+IBM
+IBM PC
+Keyboard technology
+Keycap
+List of mechanical keyboards
+Mechanism (technology)
+Model F keyboard
+Model M keyboard
+Unicomp
+Wikipedia:Citing sources
+Wikipedia:Stub
+Wikipedia:Verifiability
+File:IBM M2 sound.ogg
+Template:Compu-hardware-stub
+Template talk:Compu-hardware-stub
+Help:Maintenance template removal
+Help:Media
+Help:Referencing for beginners
+Category:Articles lacking sources from January 2014
+Total related words:  25
+{u'batchcomplete': u'', u'query': {u'pages': {u'701734': {u'ns': 0, u'pageid': 701734, u'links': [{u'ns': 0, u'title': u'AT keyboard'}, {u'ns': 0, u'title': u'Buckling'}, {u'ns': 0, u'title': u'Coil spring'}, {u'ns': 0, u'title': u'Collapse action'}, {u'ns': 0, u'title': u'Computer hardware'}, {u'ns': 0, u'title': u"Euler's critical load"}, {u'ns': 0, u'title': u'IBM'}, {u'ns': 0, u'title': u'IBM PC'}, {u'ns': 0, u'title': u'Keyboard technology'}, {u'ns': 0, u'title': u'Keycap'}, {u'ns': 0, u'title': u'List of mechanical keyboards'}, {u'ns': 0, u'title': u'Mechanism (technology)'}, {u'ns': 0, u'title': u'Model F keyboard'}, {u'ns': 0, u'title': u'Model M keyboard'}, {u'ns': 0, u'title': u'Unicomp'}, {u'ns': 4, u'title': u'Wikipedia:Citing sources'}, {u'ns': 4, u'title': u'Wikipedia:Stub'}, {u'ns': 4, u'title': u'Wikipedia:Verifiability'}, {u'ns': 6, u'title': u'File:IBM M2 sound.ogg'}, {u'ns': 10, u'title': u'Template:Compu-hardware-stub'}, {u'ns': 11, u'title': u'Template talk:Compu-hardware-stub'}, {u'ns': 12, u'title': u'Help:Maintenance template removal'}, {u'ns': 12, u'title': u'Help:Media'}, {u'ns': 12, u'title': u'Help:Referencing for beginners'}, {u'ns': 14, u'title': u'Category:Articles lacking sources from January 2014'}], u'title': u'Buckling spring'}}}, u'limits': {u'links': 500}}
