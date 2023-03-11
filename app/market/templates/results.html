@@ -1,0 +1,15 @@
+{%extends "base.html"%} <!--calls base.html-->
+
+{% block title %}
+Result for {{word}}
+{% endblock %}
+
+{%block content%}
+<body class="text-left">
+    <div class="container">
+        <h1>Results of the search for {{word}}</h1>
+        <p style="padding-left: 30; padding-right: 30">{{summary}}</p>
+        <img class="mb-4" src="{{url_for('static', filename='graph.png') }}" alt="">
+    </div>
+</body>
+{%endblock%}
